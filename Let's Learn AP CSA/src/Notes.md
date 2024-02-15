@@ -1,8 +1,3 @@
-Alr bet
-0 = empty square
-1 = Rabbit
-2 = Cat
-3 = Dog
-4 = Horse
-5 = Camel
-6 = Elephant
+01/24/2024
+(Attempted) to learn GUI from Bro Code: https://www.youtube.com/watch?v=KcEvHq8Pqs0
+Other websites (mostly for random searches/ questions): StackOverflow
